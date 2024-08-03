@@ -1,0 +1,13 @@
+@media(max-width: 414px) {
+    .main {
+        width: 80vw;
+    }
+
+    .main .rede-social li {
+        max-width: 250px;
+    }
+
+    .attribution {
+        max-width: 80%;
+    }
+}
